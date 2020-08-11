@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1593577398 source:c:\users\hp\desktop\networks\part2\1st\errordetectcrc\main.c
+	<stdio.h>
+	<string.h>
+
+1593577874 source:d:\pesce\6th sem\networks lab\by me\part2\1st\errordetectcrc\main.c
+	<stdio.h>
+	<string.h>
+

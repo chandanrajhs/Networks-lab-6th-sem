@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1593503874 source:c:\users\hp\desktop\networks\part2\5th\rsa-decryptencrypt\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
+1593504571 source:d:\pesce\6th sem\networks lab\by me\part2\5th\rsa-decryptencrypt\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
